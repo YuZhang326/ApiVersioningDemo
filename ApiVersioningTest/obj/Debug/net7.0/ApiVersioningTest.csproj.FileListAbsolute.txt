@@ -1,0 +1,6 @@
+/Users/kirk/Downloads/Projects/ApiVersioningDemo/ApiVersioningTest/bin/Debug/net7.0/CoverletSourceRootsMapping_ApiVersioningTest
+/Users/kirk/Downloads/Projects/ApiVersioningDemo/ApiVersioningTest/obj/Debug/net7.0/ApiVersioningTest.csproj.AssemblyReference.cache
+/Users/kirk/Downloads/Projects/ApiVersioningDemo/ApiVersioningTest/obj/Debug/net7.0/ApiVersioningTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirk/Downloads/Projects/ApiVersioningDemo/ApiVersioningTest/obj/Debug/net7.0/ApiVersioningTest.AssemblyInfoInputs.cache
+/Users/kirk/Downloads/Projects/ApiVersioningDemo/ApiVersioningTest/obj/Debug/net7.0/ApiVersioningTest.AssemblyInfo.cs
+/Users/kirk/Downloads/Projects/ApiVersioningDemo/ApiVersioningTest/obj/Debug/net7.0/ApiVersioningTest.csproj.CoreCompileInputs.cache
