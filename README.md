@@ -20,7 +20,7 @@ ApiVersioningApp is a demonstration of an ASP.NET Core Web API implementing mult
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/ApiVersioningApp.git
+   git clone https://github.com/YuZhang326/ApiVersioningApp.git
 2. Navigate to the project directory:
    ```bash
    cd ApiVersioningApp
