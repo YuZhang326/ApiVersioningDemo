@@ -1,0 +1,32 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the code
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      # Step 2: Setup .NET SDK
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: "7.x" # Replace with the version your project targets
+
+      # Step 3: Restore dependencies
+      - name: Restore Dependencies
+        run: dotnet restore
+
+      # Step 4: Build the project
+      - name: Build WebAPI
+        run: dotnet build --configuration Release --no-restore
